@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+ENV/
+.env.*
+
+
+Design_a_Stock_Analysis_Agent_with_CrewAI - Copy.ipynb
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Build / Dist
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment & credentials
+*.env
+*.ini
+*.cfg
+*.json
