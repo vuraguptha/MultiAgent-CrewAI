@@ -7,7 +7,7 @@ __pycache__/
 venv/
 ENV/
 .env.*
-
+*.pdf
 
 Design_a_Stock_Analysis_Agent_with_CrewAI - Copy.ipynb
 
